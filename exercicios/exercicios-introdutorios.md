@@ -12,7 +12,7 @@ R: 10,8 segundos
 
 4. Júlia é mais alta que Ana. Ana é mais baixa que Bruno. Qual dos três é o mais alto?
 
-R: 
+R: Júlia
 
 5. Em uma sala, há 2 pais e 2 filhos. Qual o número mínimo de pessoas na sala?
 
@@ -20,7 +20,7 @@ R: 3 pessoas
 
 6. Se o código para "GATO" é 4130, qual é o código para "PATO"?
 
-R: 
+R: 11130
 
 7. Você tem 50 moedas de 1 real e 50 moedas de 50 centavos. No total, quanto você tem?
 
