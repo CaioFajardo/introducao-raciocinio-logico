@@ -43,7 +43,7 @@ console.log("R: Frio")
 console.log("### ------------------------------------ ###")
 
 console.log("12. João, Pedro e Maria têm 3 profissões diferentes: médico, professor e engenheiro. João não é médico. Pedro é amigo do engenheiro. Quem é o professor?")
-console.log("")
+console.log("Maria")
 console.log("### ------------------------------------ ###")
 
 console.log("13. Uma caixa de bombons custa 10 reais. Se a caixa custa 8 reais a mais que os bombons, qual o preço dos bombons?")
